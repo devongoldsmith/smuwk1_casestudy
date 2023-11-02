@@ -22,12 +22,13 @@
 ## Business Activities
 
 * What specific financial problem is the company or project trying to solve?
-** **
+**Convera solves Cross Border Payment transaction problems**
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 **Convera gives over 30,000 customers worldwide a better way to move money — helping them navigate the complexity of global commerce and capture more value with every transaction.**
+  
 * What solution does this company offer that its competitors do not or cannot offer? 
-
+**
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like StackShare to find this information.)
 
 
